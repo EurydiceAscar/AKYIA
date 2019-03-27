@@ -1,0 +1,148 @@
+{
+	"psychologist": [
+		{
+			"name":"B. F. Skinner",
+			"url":"https://i.blogs.es/63dc1e/freud/450_1000.jpg",
+			"description":"B.F. Skinner's staunch behaviorism made him a dominating force in psychology and therapy techniques based on his theories are still used extensively today, including behavior modification and token economies. Skinner is remembered for his concepts of operant conditioning and schedules of reinforcement. ",
+			"dates":"1904-1990"
+		},
+		{
+			"name":"Jean Piaget",
+			"url":"https://upload.wikimedia.org/wikipedia/commons/6/67/Jean_Piaget_in_Ann_Arbor.png",
+			"description":"Jean Piaget's theory of cognitive development had a profound influence on psychology, especially the understanding of children's intellectual growth. His research contributed to the growth of developmental psychology, cognitive psychology, genetic epistemology, and education reform. Albert Einstein once described Piaget's observations on children's intellectual growth and thought processes as a discovery 'so simple that only a genius could have thought of it.' ",
+			"dates":"1896-1980"
+		},
+				{
+			"name":"Sigmund Freud",
+			"url":"https://www.verywellmind.com/thmb/Zd8qzxwFX0-EqpGzRqOWFbkFeGo=/3251x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-56466198-56a797d55f9b58b7d0ebf910.jpg",
+			"description":"When people think of psychology, many tend to think of Sigmund Freud. His work supported the belief that not all mental illnesses have physiological causes and he also offered evidence that cultural differences have an impact on psychology and behavior. His work and writings contributed to our understanding of personality, clinical psychology, human development, and abnormal psychology.",
+			"dates":"1856-1939"
+		},
+				{
+			"name":"Albert Bandura",
+			"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Albert_Bandura_Psychologist.jpg/800px-Albert_Bandura_Psychologist.jpg",
+			"description":"Albert Bandura's work is considered part of the cognitive revolution in psychology that began in the late 1960s. His social learning theory stressed the importance of observational learning, imitation, and modeling.'Learning would be exceedingly laborious, not to mention hazardous, if people had to rely solely on the effects of their own actions to inform them what to do,' Bandura explained in his 1977 book ​'Social Learning Theory.'",
+			"dates":"1925-"
+		},
+				{
+			"name":"Leon Festinger",
+			"url":"https://pbs.twimg.com/profile_images/847146756450275332/Kn5BUVm__400x400.jpg",
+			"description":"Leon Festinger developed the theories of cognitive dissonance and social comparison. Cognitive dissonance is the state of discomfort you feel when you hold two conflicting beliefs. You may smoke even though you know it is bad for your health. His social comparison theory says that you evaluate your ideas by comparing them with what other people believe. You are also more likely to seek out other people who share your beliefs and values.",
+			"dates":"1919-1989"
+		},
+				{
+			"name":"William James",
+			"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/William_James_b1842c.jpg/468px-William_James_b1842c.jpg",
+			"description":"Psychologist and philosopher William James is often referred to as the father of American psychology. His 1200-page text, 'The Principles of Psychology,' became a classic on the subject and his teachings and writings helped establish psychology as a science. In addition, James contributed to functionalism, pragmatism, and influenced many students of psychology during his 35-year teaching career.",
+			"dates":"1842-1910"
+		},
+				{
+			"name":"Ivan Pavlov",
+			"url":"https://www.verywellmind.com/thmb/QSe_0KUVW3EZBA4V2osZz9DrkX8=/2965x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-3317083-56a797d83df78cf772976dbc.jpg",
+			"description":"Ivan Pavlov was a Russian physiologist whose research on conditioned reflexes and classical conditioning influenced the rise of behaviorism in psychology. Pavlov's experimental methods helped move psychology away from introspection and subjective assessments to objective measurement of behavior.",
+			"dates":"1849-1936"
+		},
+				{
+			"name":"Erik Erikson",
+			"url":"https://www.verywellmind.com/thmb/FxOQNazd5r5qU8Fg1Qt7_4J56jQ=/4395x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/portrait-of-dr--erik-h--erikson-515289300-5988c878d088c00011975625.jpg",
+			"description":"Erik Erikson's stage theory of psychosocial development helped create interest and research on human development through the lifespan. An ego psychologist who studied with Anna Freud, Erikson expanded psychoanalytic theory by exploring development throughout life, including events of childhood, adulthood, and old age.",
+			"dates":"1902-1994"
+		},
+				{
+			"name":"Lev Vygotsky",
+			"url":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Lev_Vygotsky_1896-1934.jpg",
+			"description":"Lev Vygotsky was a contemporary of some better-known psychologists including Piaget, Freud, Skinner, and Pavlov, yet his work never achieved the same eminence during his lifetime. This is largely because many of his writing remained inaccessible to the Western world until quite recently. It was during the 1970s that many of his writings were translated from Russian, but his work has become enormously influential in recent decades, particularly in the fields of educational psychology and child development. While his premature death at age 38 put a halt to his work, he went on to become one of the most frequently cited psychologists of the 20th-century.",
+			"dates":"1896-1934"
+		},
+				{
+			"name":"Carl Gustav Jung",
+			"url":"https://upload.wikimedia.org/wikipedia/commons/0/00/CGJung.jpg",
+			"description":"Carl Gustav Jung was a Swiss psychiatrist and psychoanalyst who founded analytical psychology. Jung's work was influential in the fields of psychiatry, anthropology, archaeology, literature, philosophy, and religious studies. Jung worked as a research scientist at the famous Burghölzli hospital, under Eugen Bleuler. During this time, he came to the attention of Sigmund Freud, the founder of psychoanalysis. The two men conducted a lengthy correspondence and collaborated, for a while, on a joint vision of human psychology. ",
+			"dates":"1875-1961"
+		},
+				{
+			"name":"Carl Rogers",
+			"url":"https://cdn.britannica.com/s:300x300/34/38434-004-065E4D77.jpg",
+			"description":"Carl Ransom Rogers was an American psychologist and among the founders of the humanistic approach (or client-centered approach) to psychology. Rogers is widely considered to be one of the founding fathers of psychotherapy research and was honored for his pioneering research with the Award for Distinguished Scientific Contributions by the American Psychological Association (APA) in 1956. The person-centered approach, his own unique approach to understanding personality and human relationships, found wide application in various domains such as psychotherapy and counseling (client-centered therapy), education (student-centered learning), organizations, and other group settings. For his professional work he was bestowed the Award for Distinguished Professional Contributions to Psychology by the APA in 1972. In a study by Steven J. Haggbloom and colleagues using six criteria such as citations and recognition, Rogers was found to be the sixth most eminent psychologist of the 20th century and second, among clinicians, only to Sigmund Freud.",
+			"dates":"1875-1961"
+		},
+				{
+			"name":"Wilhelm Wundt",
+			"url":"https://upload.wikimedia.org/wikipedia/commons/5/56/Wilhelm_Wundt.jpg",
+			"description":"Wilhelm Maximilian Wundt was a German physician, physiologist, philosopher, and professor, known today as one of the founding figures of modern psychology. Wundt, who noted psychology as a science apart from philosophy and biology, was the first person ever to call himself a psychologist. He is widely regarded as the 'father of experimental psychology'. In 1879, Wundt founded the first formal laboratory for psychological research at the University of Leipzig. This marked psychology as an independent field of study.[5] By creating this laboratory he was able to establish psychology as a separate science from other disciplines. He also formed the first academic journal for psychological research, Philosophische Studien (from 1881 to 1902), set up to publish the Institute's research. A survey published in American Psychologist in 1991 ranked Wundt's reputation in first place regarding 'all-time eminence' based on ratings provided by 29 American historians of psychology. William James and Sigmund Freud were ranked a distant second and third.",
+			"dates":"1875-1961"
+		},
+				{
+			"name":"Abraham Maslow",
+			"url":"https://upload.wikimedia.org/wikipedia/en/e/e0/Abraham_Maslow.jpg",
+			"description":"Abraham Harold Maslow was an American psychologist who was best known for creating Maslow's hierarchy of needs, a theory of psychological health predicated on fulfilling innate human needs in priority, culminating in self-actualization. Maslow was a psychology professor at Alliant International University, Brandeis University, Brooklyn College, New School for Social Research, and Columbia University. He stressed the importance of focusing on the positive qualities in people, as opposed to treating them as a 'bag of symptoms.' A Review of General Psychology survey, published in 2002, ranked Maslow as the tenth most cited psychologist of the 20th century.",
+			"dates":"1908-1970"
+		},
+		{
+			"name":"Philip Zimbardo",
+			"url":"https://pbs.twimg.com/profile_images/1190727835/96_400x400.jpg",
+			"description":"Philip George Zimbardo is an American psychologist and a professor emeritus at Stanford University. He became known for his 1971 Stanford prison experiment and has since authored various introductory psychology books, textbooks for college students, and other notable works, including The Lucifer Effect, The Time Paradox, and The Time Cure. He is also the founder and president of the Heroic Imagination Project.",
+			"dates":"1933-"
+		},
+		{
+			"name":"John Broadus Watson",
+			"url":"https://upload.wikimedia.org/wikipedia/commons/b/ba/John_Broadus_Watson.JPG",
+			"description":"John Broadus Watson was an American psychologist who established the psychological school of behaviorism. Watson promoted a change in psychology through his address Psychology as the Behaviorist Views it, which was given at Columbia University in 1913. Through his behaviorist approach, Watson conducted research on animal behavior, child rearing, and advertising. In addition, he conducted the controversial 'Little Albert' experiment and the Kerplunk experiment. Watson popularized the use of the scientific theory with behaviorism. He was also editor of Psychological Review from 1910 to 1915. A Review of General Psychology survey, published in 2002, ranked Watson as the 17th most cited psychologist of the 20th century.",
+			"dates":"1878-1958"
+		},
+		{
+			"name":"Albert Ellis",
+			"url":"https://umanz.fr/wp-content/uploads/2017/12/Albert-Ellis.jpg",
+			"description":"Albert Ellis was an American psychologist who in 1955 developed Rational Emotive Behavior Therapy (REBT). He held MA and PhD degrees in clinical psychology from Columbia University and the American Board of Professional Psychology (ABPP). He also founded and was the President of the New York City-based Albert Ellis Institute for decades. He is generally considered to be one of the originators of the cognitive revolutionary paradigm shift in psychotherapy and one of the founders of cognitive-behavioral therapies. Based on a 1982 professional survey of US and Canadian psychologists, he was considered as the second most influential psychotherapist in history (Carl Rogers ranked first in the survey; Sigmund Freud was ranked third). Psychology Today noted, 'No individual—not even Freud himself—has had a greater impact on modern psychotherapy.'",
+			"dates":"1913-2007"
+		},
+		{
+			"name":"Alfred Binet",
+			"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Alfred_Binet.jpg/800px-Alfred_Binet.jpg",
+			"description":"Alfred Binet was a French psychologist who invented the first practical IQ test, the Binet–Simon test. In 1904, the French Ministry of Education asked psychologist Alfred Binet to devise a method that would determine which students did not learn effectively from regular classroom instruction so they could be given remedial work. Along with his collaborator Théodore Simon, Binet published revisions of his test in 1908 and 1911, the last of which appeared just before his death.",
+			"dates":"1857-1911"
+		},
+		{
+			"name":"Stanley Milgram",
+			"url":"https://upload.wikimedia.org/wikipedia/en/d/da/Stanley_Milgram_Profile.jpg",
+			"description":"Stanley Milgram was an American social psychologist, best known for his controversial experiment on obedience conducted in the 1960s during his professorship at Yale. Milgram was influenced by the events of the Holocaust, especially the trial of Adolf Eichmann, in developing the experiment. After earning a PhD in social psychology from Harvard University, he taught at Yale, Harvard, and then for most of his career as a professor at the City University of New York Graduate Center, until his death in 1984. His small-world experiment while at Harvard led researchers to analyze the degree of connectedness, including the six degrees of separation concept. Later in his career, Milgram developed a technique for creating interactive hybrid social agents (called cyranoids), which has since been used to explore aspects of social- and self-perception. He is widely regarded as one of the most important figures in the history of social psychology. A Review of General Psychology survey, published in 2002, ranked Milgram as the 46th-most-cited psychologist in the 20th century.",
+			"dates":"1933-1984"
+		},
+		{
+			"name":"Anna Freud",
+			"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anna_Freud_1957.jpg/800px-Anna_Freud_1957.jpg",
+			"description":"Anna Freud (3 December 1895 – 9 October 1982) was an Austrian-British psychoanalyst. She was born in Vienna, the sixth and youngest child of Sigmund Freud and Martha Bernays. She followed the path of her father and contributed to the field of psychoanalysis. Alongside Melanie Klein, she may be considered the founder of psychoanalytic child psychology. Compared to her father, her work emphasized the importance of the ego and its normal 'developmental lines' as well as incorporating a distinctive emphasis on collaborative work across a range of analytical and observational contexts. After the Freud family were forced to leave Vienna in 1938, with the advent of the Nazi regime in Austria, she resumed her psychoanalytic practice and her pioneering work in child psychology in London, establishing the Hampstead Child Therapy Course and Clinic in 1952 (now renamed the Anna Freud National Centre for Children and Families) as a centre for therapy, training and research work.",
+			"dates":"1895-1982"
+		},
+		{
+			"name":"Martin Seligman",
+			"url":"https://www.pursuit-of-happiness.org/wp-content/uploads/2010/07/Martin-Seligman-Photo.jpg",
+			"description":"Martin Elias Pete Seligman is an American psychologist, educator, and author of self-help books. Seligman is a strong promoter within the scientific community of his theories of positive psychology and of well-being. His theory of learned helplessness is popular among scientific and clinical psychologists. A Review of General Psychology survey, published in 2002, ranked Seligman as the 31st most cited psychologist of the 20th century. Seligman is the Zellerbach Family Professor of Psychology in the University of Pennsylvania's Department of Psychology. He was previously the Director of the Clinical Training Program in the department, and earlier taught at Cornell University. He is the director of the university's Positive Psychology Center. Seligman was elected President of the American Psychological Association for 1998. He is the founding editor-in-chief of Prevention and Treatment (the APA electronic journal) and is on the board of advisers of Parents magazine.",
+			"dates":"1942-"
+		},
+		{
+			"name":"G. Stanley Hall",
+			"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/G._Stanley_Hall.jpg/800px-G._Stanley_Hall.jpg",
+			"description":"Granville Stanley Hall was a pioneering American psychologist and educator. His interests focused on childhood development and evolutionary theory. Hall was the first president of the American Psychological Association and the first president of Clark University. A Review of General Psychology survey, published in 2002, ranked Hall as the 72nd most cited psychologist of the 20th century, in a tie with Lewis Terman.",
+			"dates":"1846-1924"
+		},
+		{
+			"name":"Harry Harlow",
+			"url":"http://e-repa.ru/files/translation/psychology-texts/harry-harlow.jpg",
+			"description":"Harry Frederick Harlow was an American psychologist best known for his maternal-separation, dependency needs, and social isolation experiments on rhesus monkeys, which manifested the importance of caregiving and companionship to social and cognitive development. He conducted most of his research at the University of Wisconsin–Madison, where humanistic psychologist Abraham Maslow worked with him for a short period of time. Harlow's experiments were controversial; they included creating inanimate surrogate mothers for the rhesus infants from wire and wool. Each infant became attached to its particular mother, recognizing its unique face and preferring it above others. Harlow next chose to investigate if the infants had a preference for bare-wire mothers or cloth-covered mothers. For this experiment, he presented the infants with a clothed 'mother' and a wire 'mother' under two conditions. In one situation, the wire mother held a bottle with food, and the cloth mother held no food. In the other situation, the cloth mother held the bottle, and the wire mother had nothing. Also later in his career, he cultivated infant monkeys in isolation chambers for up to 24 months, from which they emerged intensely disturbed. Some researchers cite the experiments as a factor in the rise of the animal liberation movement in the United States. A Review of General Psychology survey, published in 2002, ranked Harlow as the 26th most cited psychologist of the 20th century.",
+			"dates":"1905-1981"
+		},
+		{
+			"name":"Mary Ainsworth",
+			"url":"http://www.feministvoices.com/assets/Women-Past/Ainsworth/Mary-Ainsworth-255x300.jpg",
+			"description":"Mary Dinsmore Ainsworth was an American-Canadian developmental psychologist known for her work in the development of the attachment theory. She designed the strange situation procedure to observe early emotional attachment between a child and its primary caregiver. A 2002 Review of General Psychology survey ranked Ainsworth as the 97th most cited psychologist of the 20th century. Many of Ainsworth's studies are 'cornerstones' of modern-day attachment theory.",
+			"dates":"1913-1999"
+		},
+		{
+			"name":"Edward Thorndike",
+			"url":"https://upload.wikimedia.org/wikipedia/commons/6/66/PSM_V80_D211_Edward_Lee_Thorndike.png",
+			"description":"Edward Lee Thorndike was an American psychologist who spent nearly his entire career at Teachers College, Columbia University. His work on comparative psychology and the learning process led to the theory of connectionism and helped lay the scientific foundation for educational psychology. He also worked on solving industrial problems, such as employee exams and testing. He was a member of the board of the Psychological Corporation and served as president of the American Psychological Association in 1912. A Review of General Psychology survey, published in 2002, ranked Thorndike as the ninth-most cited psychologist of the 20th century. Edward Thorndike had a powerful impact on reinforcement theory and behavior analysis, providing the basic framework for empirical laws in behavior psychology with his law of effect. Through his contributions to the behavioral psychology field came his major impacts on education, where the law of effect has great influence in the classroom.",
+			"dates":"1874-1949"
+		}
+	]
+}
