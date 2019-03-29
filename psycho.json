@@ -1,4 +1,5 @@
-[
+{
+	"psychologist":[
 		{
 			"name":"B. F. Skinner",
 			"url":"https://i.blogs.es/63dc1e/freud/450_1000.jpg",
@@ -144,3 +145,4 @@
 			"dates":"1874-1949"
 		}
 ]
+}
