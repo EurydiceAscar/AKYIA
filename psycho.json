@@ -203,7 +203,7 @@
 			"website":"https://www.psychanalyseparisfaugeras.fr/",
 			"school":"R.P.H",
 			"dates":"1986-",
-			"contain":""
+			"contain":"",
 			"latitude":"48.8748033",
 			"longitude":"2.3472336"
 		},
@@ -216,8 +216,8 @@
 			"site":"",
 			"school":"R.P.H.",
 			"dates":"",
-			"contain":""
-			"latitude":"48.8552218"
+			"contain":"",
+			"latitude":"48.8552218",
 			"longitude":"2.386787"
 		}
 
